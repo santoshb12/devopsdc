@@ -4,7 +4,7 @@ Date|Host Location|Sponsor(s)|Speakers
 [February 9, 2016](http://www.meetup.com/DevOpsDC/events/226750186/)| AWS - Herndon | AWS |
 [March 8, 2016](http://www.meetup.com/DevOpsDC/events/226752572/) (May move to Mar 15)| Excella | [To The New](http://www.tothenew.com/) | Successful patterns for Continuous Delivery
 [April 12, 2016](http://www.meetup.com/DevOpsDC/events/226823531/)| Excella | Valiant Solutions, LLC | Cumulus Networks - What is NetDevOps?
-[May 10, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Excella | |
+[May 10, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvhbnb/)| Excella | | Targeted Victory
 [June 14, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvjbsb/)| Excella | |
 [July 19, 2016](http://www.meetup.com/DevOpsDC/events/227569141/)| Excella | |
 [August 9, 2016](http://www.meetup.com/DevOpsDC/events/jkpfmlyvlbmb/)| Excella | |
